@@ -1,0 +1,13 @@
+body { margin: 0; overflow: hidden; font-family: sans-serif; }
+.menu {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.menu button {
+  margin-bottom: 0.5rem;
+  padding: 0.6rem 1rem;
+  cursor: pointer;
+}
